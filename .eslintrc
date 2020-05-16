@@ -10,7 +10,14 @@
     "arrow-parens": "off",
     "comma-dangle": "off",
     "require-jsdoc": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "quotes": "off",
+    "eol-last": "off",
+    "indent": "off",
+    "no-mixed-spaces-and-tabs": "off",
+    "no-tabs": "off",
+    "max-len": "warn",
+    "key-spacing": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
